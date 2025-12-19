@@ -71,7 +71,7 @@ Add more screenshots by placing them in the screenshots/ folder and referencing 
 
 Example:
 
-![Cart View](screenshots/cart.png)
+![Cart View](screenshot/cart.png)
 
 🚀 Future Enhancements
 
@@ -82,6 +82,7 @@ User authentication system
 Order history and invoice generation
 
 Modular code structure using multiple classes
+
 
 Admin panel for menu management
 
